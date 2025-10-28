@@ -1,0 +1,20 @@
+	{
+	    "first_name": "Connor",
+	    "last_name": "Henderson",
+	    "email": "connorhenderson20@gmail.com",
+	    "phone": "508-277-9898",
+	    "age": "26",
+	    "US_citizen": true,
+	    "sponsorship_needed": false,
+
+	    "resume": "Link to resume",
+	    "postal_code": "02346",
+	    "country": "USA",
+	    "city": "Middleborough",
+	    "address": "202 N Main St",
+
+	    "gender": "Male",
+	    "race": "White",
+	    "Veteran_status": "Not a veteran",
+	    "disability_status": "No disability"
+	}
